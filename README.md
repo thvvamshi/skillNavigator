@@ -46,9 +46,8 @@ SkillNavigator is a web application that connects users with job opportunities b
 Clone the repository:
 
 ```bash
-git clone https://github.com/thvvamshi/mini-porject.git
+git clone https://github.com/thvvamshi/skillNavigator.git
 
-cd skillnavigator
 ```
 
 Install dependencies:
